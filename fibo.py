@@ -5,6 +5,7 @@ def fibo(num):
     phi2 = (1 - sqrt(5)) / 2
     return round(pow(phi, nnum) - pow(phi2, num) / sqrt(5))
 
-print(fibo(5)
+print(fibo(5))
+
 
 
